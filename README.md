@@ -1,3 +1,7 @@
+* Author: zepalz
+ *
+ * Created on November 13, 2017, 3:05 AM
+
 Proof of concept targeting a nonprofit a ticketing and coat check systems
 which allows for extendability, data collection. and focused on trying to offload
 the majorly of task into pg/pl and reduce calls out to the API application.
@@ -21,3 +25,5 @@ Has the sql dumps of schemas and procedural functions.
 has lots of old versons and other ideas.
 as well as two binaries. 
  _matthew.e.duffy.
+
+
