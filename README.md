@@ -2,8 +2,7 @@
 #### A billet and CoatCheck System
 ##### :Proof of concept: Utilizez C++, posgressSQL, pg/pl SQL procedural language
 
-
-Proof of concept targeting a nonprofit a ticketing and coat check systems
+ targeting a nonprofit a ticketing and coat check systems
 which allows for extendability, data collection. and focused on trying to offload
 the majorly of task into pg/pl and reduce calls out to the API application.
 
