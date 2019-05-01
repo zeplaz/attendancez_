@@ -3,7 +3,6 @@
 ##### :Proof of concept: Utilizez C++, posgressSQL, pg/pl SQL procedural language
 
  * Author: zepalz
- *
  * Created on November 13, 2017, 3:05 AM
 
 Proof of concept targeting a nonprofit a ticketing and coat check systems
