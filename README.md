@@ -1,6 +1,6 @@
 ## attendancez_
 #### A billet and CoatCheck System
-##### :Proof of concept
+##### :Proof of concept: Utilizez C++, posgressSQL, pg/pl SQL procedural language
 
  * Author: zepalz
  *
